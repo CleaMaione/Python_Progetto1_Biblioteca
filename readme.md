@@ -1,6 +1,6 @@
 DESCRIZIONE DEL PROGETTO
 
-Il presente progetto è stato pensato per un utente finale che vuole effettuare delle operazioni su un database di libri.
+Il presente progetto è stato pensato per un utente finale che vuole effettuare delle operazioni su un biblioteca/database di libri.
 
 Le operazioni effettuabili sono:
 
