@@ -1,5 +1,9 @@
+DESCRIZIONE DEL PROGETTO
+
 Il presente progetto è stato pensato per un utente finale che vuole effettuare delle operazioni su un database di libri.
+
 Le operazioni effettuabili sono:
+
 - aggiungere un libro e le relative copie
 - rimuovere un libro
 - verificare la disponibilità di un determinato libro
